@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm Sam!  
+🚀 **Aspiring Software Developer** | Passionate about **AI, Web Dev & Cybersecurity**  
+💻 **Tech Stack:** Python, Java, C++, GitHub, Open Source  
+📌 **Building projects & solving real-world problems**  
+📫 **Contact me:** [https://www.linkedin.com/in/soumyajit-bairagi-67181329a/]  
 
-<!--
-**its-sam-315/its-sam-315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats  
+![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-sam-315&show_icons=true&theme=tokyonight)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=its-sam-315&layout=compact&theme=tokyonight)  
+
+---
+
+⚡ **Fun Fact:** Learning and building something cool every day!  
