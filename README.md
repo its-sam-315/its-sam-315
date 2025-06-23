@@ -3,8 +3,6 @@
 ## 🚀 Aspiring Software Developer | AI, Web Dev & Cybersecurity Enthusiast
 
 📍 Based in Kolkata, West Bengal  
-🔗 [LinkedIn: soumyajit-bairagi-67181329a](https://www.linkedin.com/in/soumyajit-bairagi-67181329a/)  
-📧 Email: [coolbairagisoumyajit@gmail.com](mailto:coolbairagisoumyajit@gmail.com)
 
 ---
 
