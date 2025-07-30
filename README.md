@@ -32,6 +32,24 @@ Visit my personal portfolio to see my skills, projects, and contact details:
 
 ---
 
+## 📊 Languages I Code In
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-sam-315&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=its-sam-315&theme=radical&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=its-sam-315&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/soumyajit-bairagi-67181329a/)  
