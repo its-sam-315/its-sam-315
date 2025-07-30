@@ -52,7 +52,9 @@ Visit my personal portfolio to see my skills, projects, and contact details:
 
 ## 🐍 Contribution Graph
 
-![GitHub Snake](https://github.com/its-sam-315/its-sam-315/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Animation](https://github.com/its-sam-315/its-sam-315/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
