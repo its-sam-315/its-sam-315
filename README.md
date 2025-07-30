@@ -50,14 +50,6 @@ Visit my personal portfolio to see my skills, projects, and contact details:
 
 ---
 
-## 🐍 Contribution Graph
-
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=its-sam-315&theme=github)
-
-
----
-
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/soumyajit-bairagi-67181329a/)  
