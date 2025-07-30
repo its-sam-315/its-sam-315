@@ -50,10 +50,20 @@ Visit my personal portfolio to see my skills, projects, and contact details:
 
 ---
 
+## 🐍 Contribution Graph
+
+![GitHub Snake](https://github.com/its-sam-315/its-sam-315/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/soumyajit-bairagi-67181329a/)  
 - Email: [coolbairagisoumyajit@gmail.com](mailto:coolbairagisoumyajit@gmail.com)  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=its-sam-315&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
