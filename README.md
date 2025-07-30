@@ -46,7 +46,8 @@ Visit my personal portfolio to see my skills, projects, and contact details:
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=its-sam-315&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=its-sam-315&theme=radical&hide_border=false)
+
 
 ---
 
